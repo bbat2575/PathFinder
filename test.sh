@@ -1,6 +1,6 @@
 #!/bin/bash
 
-program="python3 a4.py"
+program="python3 pathfinder.py"
 
 # Find all files ending with ".in"
 test_files=$(find . -type f -name "*.in")

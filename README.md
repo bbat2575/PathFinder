@@ -36,6 +36,19 @@ For *graph8.in*:
 
 ![alt text](https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png)
 
+Output:
+
+```bash
+2, 3 -> Path Exists!
+5, 2 -> No Path Exists.
+2, 1 -> No Path Exists.
+2, 4 -> Path Exists!
+7, 0 -> Path Exists!
+7, 1 -> Path Exists!
+1, 4 -> No Path Exists.
+5, 7 -> Path Exists!
+```
+
 ## How To Run
 
 Execute the run script.

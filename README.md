@@ -35,7 +35,7 @@ For *graph8.in*:
 5 7 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
 
 <p align="center">
-![alt text](https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png)
+    <img src="https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png"/>
 </p>
 
 Output:

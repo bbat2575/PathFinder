@@ -34,9 +34,7 @@ For *graph8.in*:
 1 4 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
 5 7 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
 
-<p align="center">
-    <img src="https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png"/>
-</p>
+![alt text](https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png)
 
 Output:
 

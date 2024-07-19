@@ -34,7 +34,7 @@ For *graph8.in*:
 1 4 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
 5 7 &emsp;&emsp;&emsp;&emsp;&nbsp; ...  
 
-![alt text](https://github.com/bbat2575/PathFinder/blob/main/graph8.png)
+![alt text](https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png)
 
 ## How To Run
 

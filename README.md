@@ -15,8 +15,6 @@ A .in file contains graph information in the following order:
 
 For *graph8.in*:
 
-<img align="right" src="https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png">
-
 8 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of vertices  
 7 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of edges  
 0 1 0.802 &emsp;&ensp; <- Egdes  
@@ -24,6 +22,7 @@ For *graph8.in*:
 0 7 0.019 &emsp;&ensp; ...  
 1 5 0.233 &emsp;&ensp; ...  
 2 3 0.154 &emsp;&ensp; ...  
+<img align="right" src="https://github.com/bbat2575/PathFinder/blob/main/graphs/graph8.png">
 3 4 0.651 &emsp;&ensp; ...  
 6 7 0.010 &emsp;&ensp; ...  
 8 &emsp;&emsp;&emsp;&emsp;&emsp; <- Number of queries  
